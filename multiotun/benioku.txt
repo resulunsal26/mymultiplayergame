@@ -1,0 +1,9 @@
+Bu oyun multiplayer/online  rekabetçi türünde bir oyundur.Oyun amacımız karşımızda çıkan düşmanları yok etmek ve onlardan kaçmaktır.Oyun içi görüntüler "game pictures " adlı dosyada mevcuttur.Oyunnun kendisi output dosyasında mevcuttur.Oyunda oda kurulumunda arkadaşınızla girmek istediğiniz odaların isimleri aynı olmak zorundadır.
+
+
+
+
+Oyun içi kontroller
+s/d/yön tuşları: karakter hareketi
+sağ ctrl :ateş etme
+space : zıplama

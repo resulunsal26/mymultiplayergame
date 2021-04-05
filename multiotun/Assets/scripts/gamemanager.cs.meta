@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c30f53caf78adc745908a9e2bfb34bf7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerprefab: {instanceID: 0}
+  - canvas: {instanceID: 0}
+  - scenecam: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
